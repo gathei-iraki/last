@@ -1,0 +1,23 @@
+body {
+    background-image: url("../pics/Animated\ gif\ about\ gif\ in\ Lost7\ by\ MirandaKeyes.gif");
+    background-repeat: no-repeat;
+   width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#text{
+    font-family: 'Pacifico', cursive;
+  font-size: x-large;
+  color:white;
+  
+  text-align: center;
+  }
+ #link{
+    font-family: 'Pacifico', cursive;
+  font-size: x-large;
+  color:white;
+  font-weight: bolder;
+  opacity: 0.6;
+  text-align: center;
+  }
+ 
